@@ -1,0 +1,30 @@
+body{
+    background-color: #484D50; font-family: 'Poppins';
+}
+
+h1 {
+    font-family: 'Poppins'; color: #C1C1C3; font-weight: bold;
+}
+.picture {
+border-radius: 150px;
+}
+
+.second-text, .main-text{
+color: #ffffff; text-decoration: none;
+}
+
+.frame-main {
+background-color: #22252e
+}
+
+.links {
+color: #ffffff; font-style:italic;
+}
+
+#social-media{
+text-align: center;
+}
+
+p {
+color:#ffffff; font-size:20px; font-weight: bold;
+}
